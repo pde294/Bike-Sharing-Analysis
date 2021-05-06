@@ -8,10 +8,10 @@ https://public.tableau.com/profile/paromita.de7321#!/vizhome/NYCCitiBike_1615416
 https://public.tableau.com/profile/paromita.de7321#!/vizhome/NYCCitiBike_16154168316630/TopEndingLocations
  
 - Out of 1,048,576 trips made with Citibike in August 2019, the majority fell in the range of 4-7 minutes:
-  14% were 5 minutes long 
-  13% were 4 minutes long
-  13.8% were 6 minutes long
-  13% were 7 minutes long 
+  * 14% were 5 minutes long, 
+  * 13% were 4 minutes long,
+  * 13.8% were 6 minutes long, 
+  * 13% were 7 minutes long 
 https://public.tableau.com/profile/paromita.de7321#!/vizhome/NYCCitibikeChallenge_16156062728130/Story1 (Checkout Times for Users)
  
 - Women were more likely to take out their bikes for 5 minutes, while men and unknown genders were more likely to take out their bikes for 6 minutes.
