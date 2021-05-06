@@ -1,11 +1,11 @@
 # bikesharingupdated
 ##Overview
- - The purpose of this analysis is to examine trends occuring in August 2019 with Citibike rides.
+ - The purpose of this analysis is to examine trends occuring in August 2019 with Citibike rides. Trends examined include top starting and top ending locations, trip durations, trip durations by gender, checkout days and times, and checkout days and times by gender. 
 
 ##KeyResults
 https://public.tableau.com/profile/paromita.de7321#!/vizhome/NYCCitiBike_16154168316630/TopStartingLocations
 https://public.tableau.com/profile/paromita.de7321#!/vizhome/NYCCitiBike_16154168316630/TopEndingLocations
- - Top starting and stopping locations and rides were in Manhattan. 
+ - Top starting and stopping locations and rides spanned Manhattan from Midtown to Battery Park.  
 
 https://public.tableau.com/profile/paromita.de7321#!/vizhome/NYCCitibikeChallenge_16156062728130/Story1 (Checkout Times for Users)
  - Overall, the majority of people took out Citibikes for 5-7 minute trips.
