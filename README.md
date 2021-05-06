@@ -24,7 +24,7 @@ https://public.tableau.com/profile/paromita.de7321#!/vizhome/NYCCitibikeChalleng
  
  
  
-### *Women were more likely to take out their bikes for 5 minutes, while men and unknown genders were more likely to take out their bikes for 6 minutes.*
+### *Women were more likely to take out their bikes for 5 minutes, while men and riders of unknown gender were more likely to take out their bikes for 6 minutes.*
 
 https://public.tableau.com/profile/paromita.de7321#!/vizhome/NYCCitibikeChallenge_16156062728130/Story1 (Checkout Times by Gender)
  
@@ -42,7 +42,7 @@ https://public.tableau.com/profile/paromita.de7321#!/vizhome/NYCCitibikeChalleng
  
  
  
- ### *While Thursday and Friday were most popular days for Male and Female riders, for riders with Unknown Gender, Saturday and Sunday were the most popular days for riders.*
+ ### *While Thursday and Friday were most popular days for Male and Female riders, for riders with unknown gender, Saturday and Sunday were the most popular days for riders.*
 
 https://public.tableau.com/profile/paromita.de7321#!/vizhome/NYCCitibikeChallenge_16156062728130/Story1 (User Trips by Gender by Weekday) 
 
