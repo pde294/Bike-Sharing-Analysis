@@ -2,11 +2,15 @@
 ##Overview
  - The purpose of this analysis is to examine trends occuring in August 2019 with Citibike rides. Trends examined include top starting and top ending locations, trip durations, trip durations by gender, checkout days and times, and checkout days and times by gender. 
 
+
 ##KeyResults
 - Top starting and stopping locations and rides spanned Manhattan from Midtown to Battery Park.
-
+![image1](resources/citibike_aug_2019_top_starting_locations.png?raw=true "Title")
 https://public.tableau.com/profile/paromita.de7321#!/vizhome/NYCCitiBike_16154168316630/TopStartingLocations
+
+![image1](resources/citibike_aug_2019_top_ending_locations.png?raw=true "Title")
 https://public.tableau.com/profile/paromita.de7321#!/vizhome/NYCCitiBike_16154168316630/TopEndingLocations
+ 
  
 - Out of 1,048,576 trips made with Citibike in August 2019, the majority fell in the range of 4-7 minutes:
   * 14% were 5 minutes long, 
