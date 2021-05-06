@@ -23,7 +23,7 @@ https://public.tableau.com/profile/paromita.de7321#!/vizhome/NYCCitibikeChalleng
  - While Thursday and Friday were most popular days for Male and Female riders, for riders with Unknown Gender, Saturday and Sunday were the most popular days for riders.
 
 ##Summary
- - Overalll, the mornings of Thursday-Sunday appear to be the most popular times for all riders. If given extra time to do analysis, I would like to do visualizations on 1) trip duration between the most popular starting location-stop location pairs, and 2) bike repairs by trip duration. 
+ - Overalll, the mornings of Thursday-Sunday appear to be the most popular times for all riders. In regards to next steps for analysis, I would like to do visualizations on 1) trip duration between the most popular starting location-stop location pairs, and 2) bike repairs by trip duration. 
 
 
 
