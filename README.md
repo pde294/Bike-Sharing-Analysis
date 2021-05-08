@@ -9,7 +9,7 @@
 ![image1](resources/citibike_aug_2019_top_starting_locations.png?raw=true "Title")
 https://public.tableau.com/profile/paromita.de7321#!/vizhome/NYCCitiBike_16154168316630/TopStartingLocations
 
-![image1](resources/citibike_aug_2019_top_ending_locations.png?raw=true "Title")
+![image2](resources/citibike_aug_2019_top_ending_locations.png?raw=true "Title")
 https://public.tableau.com/profile/paromita.de7321#!/vizhome/NYCCitiBike_16154168316630/TopEndingLocations
  
  
@@ -20,6 +20,7 @@ https://public.tableau.com/profile/paromita.de7321#!/vizhome/NYCCitiBike_1615416
   * 13.8% were 6 minutes long, 
   * 13% were 7 minutes long 
 
+![image3](resources/citibike_aug_2019_trip_durations.png?raw=true "Title")
 https://public.tableau.com/profile/paromita.de7321#!/vizhome/NYCCitibikeChallenge_16156062728130/Story1 (Checkout Times for Users)
  
  
