@@ -1,4 +1,4 @@
-# bikesharingupdated
+# Bike Sharing
 ## **Overview**
  - The purpose of this analysis is to examine trends occuring in August 2019 with Citibike rides. Trends examined include top starting and top ending locations, trip durations, trip durations by gender, checkout days and times, and checkout days and times by gender. 
 
