@@ -31,7 +31,7 @@ https://public.tableau.com/profile/paromita.de7321#!/vizhome/NYCCitibikeChalleng
  
  
  
-### *Thursday between 8am-9am was the most popular time for riders to take out Citibikes.*
+### *Thursday between 6pm-7pm was the most popular time for riders to take out Citibikes.*
 
 https://public.tableau.com/profile/paromita.de7321#!/vizhome/NYCCitibikeChallenge_16156062728130/Story1 (Trips by Weekday for Each Hour)
 
