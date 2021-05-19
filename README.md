@@ -26,7 +26,7 @@ https://public.tableau.com/profile/paromita.de7321#!/vizhome/NYCCitibikeChalleng
  
  
 ### *Women were more likely to take out their bikes for 5 minutes, while men and riders of unknown gender were more likely to take out their bikes for 6 minutes.*
-
+![image3](resources/citibike_aug_2019_checkout_times_by_gender.png?raw=true "Title")
 https://public.tableau.com/profile/paromita.de7321#!/vizhome/NYCCitibikeChallenge_16156062728130/Story1 (Checkout Times by Gender)
  
  
