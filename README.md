@@ -26,19 +26,19 @@ https://public.tableau.com/profile/paromita.de7321#!/vizhome/NYCCitibikeChalleng
  
  
 ### *Women were more likely to take out their bikes for 5 minutes, while men and riders of unknown gender were more likely to take out their bikes for 6 minutes.*
-![image3](resources/citibike_aug_2019_checkout_times_by_gender.png?raw=true "Title")
+![image4](resources/citibike_aug_2019_checkout_times_by_gender.png?raw=true "Title")
 https://public.tableau.com/profile/paromita.de7321#!/vizhome/NYCCitibikeChallenge_16156062728130/Story1 (Checkout Times by Gender)
  
  
  
 ### *The most popular checkout day and time for riders was Thursday between 6-7pm. *
-
+![image5](resources/citibike_aug_2019_weekday_by_hour.png?raw=true "Title")
 https://public.tableau.com/profile/paromita.de7321#!/vizhome/NYCCitibikeChallenge_16156062728130/Story1 (Trips by Weekday for Each Hour)
 
 
 
 ### *There was no difference by gender as both riders identifying as men and riders identifying as women had Thursday between 6-7PM was the most popular checkout day/time. For riders of unknown gender, Saturday between 12-1pm was the most popular checkout day/time.*
-
+![image6](resources/citibike_aug_2019_gender_weekday_hour.png?raw=true "Title")
 https://public.tableau.com/profile/paromita.de7321#!/vizhome/NYCCitibikeChallenge_16156062728130/Story1 (Trips by Gender, Weekday Per Hour)
  
  
@@ -46,7 +46,7 @@ https://public.tableau.com/profile/paromita.de7321#!/vizhome/NYCCitibikeChalleng
  ### *The most popular checkout day overall did differed by riders' user type status either as a customer or subscriber.*
    * For customers of male, female, and riders of unknown gender alike, Saturday was the most popular checkout day overall. 
    * For subscribers of male, female, and riders of unknown gender alike, Thursday was the most popular checkout day overall.   
-
+![image7](resources/citibike_aug_2019_gender_weekday.png?raw=true "Title")
 https://public.tableau.com/profile/paromita.de7321#!/vizhome/NYCCitibikeChallenge_16156062728130/Story1 (User Trips by Gender by Weekday) 
 
 
