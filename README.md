@@ -31,19 +31,21 @@ https://public.tableau.com/profile/paromita.de7321#!/vizhome/NYCCitibikeChalleng
  
  
  
-### *Thursday between 6pm-7pm was the most popular time for riders to take out Citibikes.*
+### *The most popular checkout day and time for riders was Thursday between 6-7pm. *
 
 https://public.tableau.com/profile/paromita.de7321#!/vizhome/NYCCitibikeChallenge_16156062728130/Story1 (Trips by Weekday for Each Hour)
 
 
 
-### *For men and women alike, 8am was a popular time during which to take a Citibike ride.*
+### *There was no difference by gender as both riders identifying as men and riders identifying as women had Thursday between 6-7PM was the most popular checkout day/time. For riders of unknown gender, Saturday between 12-1pm was the most popular checkout day/time.*
 
 https://public.tableau.com/profile/paromita.de7321#!/vizhome/NYCCitibikeChallenge_16156062728130/Story1 (Trips by Gender, Weekday Per Hour)
  
  
  
- ### *While Thursday and Friday were most popular days for Male and Female riders, for riders with unknown gender, Saturday and Sunday were the most popular days for riders.*
+ ### *The most popular checkout day overall did differed by riders' user type status either as a customer or subscriber.*
+   * For customers of male, female, and riders of unknown gender alike, Saturday was the most popular checkout day overall. 
+   * For subscribers of male, female, and riders of unknown gender alike, Thursday was the most popular checkout day overall.   
 
 https://public.tableau.com/profile/paromita.de7321#!/vizhome/NYCCitibikeChallenge_16156062728130/Story1 (User Trips by Gender by Weekday) 
 
