@@ -1,4 +1,4 @@
-!Bike-Sharing-Analysis' Stats(https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)
+!Bike-Sharing-Analysis' Stats(https://github-readme-stats.vercel.app/api?username=pde294&show_icons=true)
 
 
 
